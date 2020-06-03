@@ -7,4 +7,12 @@ Highly imbalance target variables
 COVID-19 target value = positive rows have count as 58
 Normal target value = negative rows have count as 1342
 100 * (1342 / 1400) ~ 95.86 %
-Even if model classifies all the images as "Normal" label, it would achieve 95.86 % accuracy                                  
+Even if model classifies all the images as "Normal" label, it would achieve 95.86 % accuracy       
+
+ABOUT VERSIONS:
+
+v1:
+Trained on Base Model
+
+v2:
+Trained on ResNet50
