@@ -15,4 +15,8 @@ v1:
 Trained on Base Model
 
 v2:
-Trained on ResNet50
+Added ResNet50
+
+v3:
+Added EfficientNet B4
+
